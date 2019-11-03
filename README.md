@@ -1,5 +1,4 @@
-# Firebase Codelab: FriendlyChat
-test
+#Firebase Codelab: FriendlyChat
 
 This is the source code for the Firebase FriendlyChat codelab. It includes start and end versions of the
 code for Web, Cloud Functions, Performance Monitoring. To get started, open the codelab instructions:
